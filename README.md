@@ -79,7 +79,7 @@ The interactive dashboard explores employee attrition through key performance in
 
 ![HR Dashboard Page 1](images/Attrition%20Analysis-1.png)
 
-![HR Dashboard Page 2](images/Attrition%20Analysis-1.png)
+![HR Dashboard Page 2](images/Attrition%20Analysis-2.png)
 
 ## Recommendations
 
