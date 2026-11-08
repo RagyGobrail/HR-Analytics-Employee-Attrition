@@ -25,7 +25,7 @@ This project explores employee attrition across demographic groups, departments,
 
 **Dataset:** IBM HR Analytics Employee Attrition & Performance
 
-**Source:** [Add the original Kaggle dataset link here]
+**Source:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 The original dataset contains 1,470 employee records and 35 columns.
 
@@ -77,11 +77,9 @@ The interactive dashboard explores employee attrition through key performance in
 
 ### Dashboard Screenshots
 
-Add your exported dashboard screenshots in the `images/dashboard_screenshots/` folder, then include them below.
+![HR Dashboard Page 1](images\Attrition Analysis-1.png)
 
-![HR Dashboard Page 1](images/dashboard_screenshots/dashboard_page1.png)
-
-![HR Dashboard Page 2](images/dashboard_screenshots/dashboard_page2.png)
+![HR Dashboard Page 2](images\Attrition Analysis-1.png)
 
 ## Recommendations
 
